@@ -1,0 +1,17 @@
+v1.0.0
+- Settings: Easy pairing with the Hue Bridge
+- Settings: Easy light configuration
+- Settings: Restore lights to previous state
+- Settings: Debug mode
+- Bug fixes: Window multithreading works after switching to Winsock2
+- Refactoring: Logging now works in python and c++ code
+
+v0.0.3
+- Refactoring: Multithreading to prevent waveform and music from stuttering
+
+v0.0.2
+- Refactoring: CMake version
+- Bug fixes: workaround for audiodata not presenting correctly through the visualization api on Cubox (imx6) using HDMI audio output
+
+v0.0.1
+- Initial release
